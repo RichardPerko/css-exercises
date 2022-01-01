@@ -1,0 +1,16 @@
+.oddclass {
+    background-color: #ffadb9bd;
+    font-family: Verdana, sans-serif;
+}
+#number2 {
+    color: #0000d3;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#number4 {
+    font-size: 24px;
+    background-color: rgba(97, 219, 97, 0.699);
+    font-weight: bold;
+}
